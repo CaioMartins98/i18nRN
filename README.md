@@ -50,7 +50,7 @@ Example application for using the i18n library to learn about internationalizati
 
 ## :sparkles: Features
 
-:heavy_check_mark: Add i18n library;\
+:heavy_check_mark: Add i18n library
 
 ## :rocket: Technologies
 
@@ -86,7 +86,6 @@ $ yarn start
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/CaioMartins98" target="_blank">Caio Martins</a>
 
