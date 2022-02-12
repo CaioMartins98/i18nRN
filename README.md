@@ -84,7 +84,7 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License
+<!-- ## :memo: License -->
 
 
 Made with :heart: by <a href="https://github.com/CaioMartins98" target="_blank">Caio Martins</a>
